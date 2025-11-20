@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DummyTestSuite" tests="1" failures="0" errors="0" skipped="0" time="0.01">
+    <testcase classname="DummyClass" name="dummyTest" time="0.01"/>
+</testsuite>
